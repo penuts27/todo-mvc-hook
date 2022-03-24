@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-mvc-hook/static/css/main.de3d40a1.css",
+    "main.js": "/todo-mvc-hook/static/js/main.9d1dfccd.js",
+    "index.html": "/todo-mvc-hook/index.html",
+    "main.de3d40a1.css.map": "/todo-mvc-hook/static/css/main.de3d40a1.css.map",
+    "main.9d1dfccd.js.map": "/todo-mvc-hook/static/js/main.9d1dfccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3d40a1.css",
+    "static/js/main.9d1dfccd.js"
+  ]
+}
